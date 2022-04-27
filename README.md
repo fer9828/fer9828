@@ -8,6 +8,6 @@
 - 💬 Ask me about C, C++ programming languages
 - 📫 How to reach me: Email - jimenezfernando98@hotmail.com
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I can move my ears without moving my eyebrows
+- ⚡ Fun fact: I can move my ears without moving my eyebrows.
 
-<img src = "https://github-readme-stats.vercel.app/api?username=fer9828&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src = "https://github-readme-stats.vercel.app/api?username=fer9828&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
